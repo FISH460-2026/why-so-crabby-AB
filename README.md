@@ -1,4 +1,6 @@
-## A Quarto Manuscript Template
+## Why So Crabby 
 
-This is a template repo for generating a manuscript from Quarto that accompanies the tutorial at: [Quarto Manuscripts: RStudio](https://quarto.org/docs/manuscripts/authoring/rstudio.html)
+Stress response of shore crabs to changes in salinity and temperature within different habitats treatments (soft vs rocky bottoms)
+
+(https://quarto.org/docs/manuscripts/authoring/rstudio.html)
 
